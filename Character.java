@@ -32,4 +32,6 @@ abstract class Character {
 
     // 抽象メソッド: サブクラスで具体的に実装する必要がある
     public abstract int attack(Character target);
+
+    
 }

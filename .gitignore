@@ -1,1 +1,3 @@
 *.class
+Iterator/*.class
+Singleton/*.class
